@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @rezakstasik  
+- 👀 I’m interested in Web3 technologies, blockchain development, and open-source projects.  
+- 🌱 I’m currently learning smart contract development and exploring zero-knowledge proofs.  
+- 💞️ I’m looking to collaborate on cryptocurrency projects, DeFi applications, and zkSNARK-based solutions.  
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: I started my Web3 journey by testing and contributing to Ethereum-based projects before diving into zk-tech.  
